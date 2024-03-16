@@ -1,0 +1,8 @@
+res://scenes/main.tscn
+res://scenes/mask_dude.tscn
+res://scenes/big_bird.tscn
+res://scenes/fruits.tscn
+res://scenes/bomb.tscn
+res://scripts/big_bird.gd
+res://scripts/printScore.gd
+res://scripts/mask_dude.gd

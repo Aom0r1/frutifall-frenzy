@@ -1,0 +1,48 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1710620930
+export_presets.cfg::TextFile::-1::1710615372::0::1::::<><>::
+icon.svg::CompressedTexture2D::5985441070578499056::1708387102::1708387102::1::::<><>::
+::res://scenes/::1710620605
+big_bird.tscn::PackedScene::7931228497131547427::1710620605::0::1::::<><>::uid://jpj0f1460ty3::::res://sprites/Characters/Idle (40x48).png<>res://scripts/big_bird.gd<>uid://dgrd8ifn4kdw::::res://scenes/bomb.tscn<>uid://c8pndcxel8xja::::res://scenes/fruits.tscn
+bomb.tscn::PackedScene::223992089571891452::1710620605::0::1::::<><>::uid://cbofuq4ssb350::::res://sprites/Fruits/Boooooom (52x56).png<>res://scripts/bomb.gd<>uid://bx3av23fu78hu::::res://sprites/Fruits/Bomb On (52x56).png
+fruits.tscn::PackedScene::7120833692814813318::1710620605::0::1::::<><>::res://scripts/fruits.gd<>uid://cr4rppr8cuave::::res://sprites/Fruits/Apple.png<>uid://capbu0qlla2bw::::res://sprites/Fruits/Bananas.png<>uid://3u5ka2oobmbb::::res://sprites/Fruits/Collected.png<>uid://bedhg4jmexodd::::res://sprites/Fruits/Cherries.png<>uid://s44bj7vlb2vg::::res://sprites/Fruits/Kiwi.png<>uid://m6fjk0s8mlgs::::res://sprites/Fruits/Pineapple.png<>uid://cadeac4hm47hq::::res://sprites/Fruits/Melon.png<>uid://bgn1pl7d0hgx2::::res://sprites/Fruits/Orange.png<>uid://dixng4spix14d::::res://sprites/Fruits/Strawberry.png
+main.tscn::PackedScene::2466106151089377835::1710620604::0::1::::<><>::uid://cyqi6cv0jd6e4::::res://sprites/Resources/FFFFORWA.TTF<>res://scripts/printScore.gd<>uid://csgaj00ohfpuj::::res://sprites/Tilemap/Terrain (16x16).png<>uid://cbo3kvh32cdyn::::res://sprites/Tilemap/Blue.png<>uid://714g5q6k7hqn::::res://scenes/mask_dude.tscn<>uid://dk87f62ytmjff::::res://scenes/big_bird.tscn<>uid://bxa1k40ponbxh::::res://sprites/Interface/HP_Ui.png<>res://scripts/HpBar.gd<>uid://yyutve3ocx4l::::res://sprites/Interface/HeartEmptry.png<>uid://dv3861oy04q6y::::res://sprites/Interface/HeartFull.png
+mask_dude.tscn::PackedScene::2301489927416750153::1710620605::0::1::::<><>::res://scripts/mask_dude.gd<>uid://ck48i04nxlwsj::::res://sprites/Characters/Idle (32x32).png<>uid://cobya4w3l6yly::::res://sprites/Characters/Hit (32x32).png<>uid://1k8ayc0o25vy::::res://sprites/Characters/Run (32x32).png<>uid://c7ktbll6thh47::::res://sprites/Characters/Fall (32x32).png<>uid://cb3wgkcu1463i::::res://sprites/Characters/Jump (32x32).png
+::res://scripts/::1710618111
+big_bird.gd::GDScript::-1::1710616517::0::1::::<>CharacterBody2D<>::
+bomb.gd::GDScript::-1::1708620821::0::1::::<>Area2D<>::
+fruits.gd::GDScript::-1::1709406957::0::1::::<>Area2D<>::
+global.gd::GDScript::-1::1709406957::0::1::::<>Node<>::
+HpBar.gd::GDScript::-1::1708551650::0::1::::<>TextureProgressBar<>::
+mask_dude.gd::GDScript::-1::1710618011::0::1::::<>CharacterBody2D<>::
+printScore.gd::GDScript::-1::1710618111::0::1::::<>Node2D<>::
+::res://sprites/::1710615638
+::res://sprites/Characters/::1709217733
+Fall (32x32).png::CompressedTexture2D::7040684146184176798::1708387102::1708387102::1::::<><>::
+Hit (32x32).png::CompressedTexture2D::5759008322350099862::1708387102::1708387102::1::::<><>::
+Idle (32x32).png::CompressedTexture2D::5536616064251728237::1708387102::1708387102::1::::<><>::
+Idle (40x48).png::CompressedTexture2D::663256660977433328::1708387102::1708387102::1::::<><>::
+Jump (32x32).png::CompressedTexture2D::4902179806009939908::1708387102::1708387102::1::::<><>::
+Run (32x32).png::CompressedTexture2D::1847558637696436274::1708387102::1708387102::1::::<><>::
+::res://sprites/Fruits/::1709217733
+Apple.png::CompressedTexture2D::6026978455500845166::1708387102::1708387102::1::::<><>::
+Bananas.png::CompressedTexture2D::4803904804883108020::1708387102::1708387102::1::::<><>::
+Bomb On (52x56).png::CompressedTexture2D::4058605627793699942::1708387102::1708387102::1::::<><>::
+Boooooom (52x56).png::CompressedTexture2D::4872271686437896365::1708387102::1708387102::1::::<><>::
+Cherries.png::CompressedTexture2D::2673806462852089177::1708387102::1708387102::1::::<><>::
+Collected.png::CompressedTexture2D::2008414587032722235::1708387102::1708387102::1::::<><>::
+Kiwi.png::CompressedTexture2D::1325029242049256212::1708387102::1708387102::1::::<><>::
+Melon.png::CompressedTexture2D::4779277518800736710::1708387102::1708387102::1::::<><>::
+Orange.png::CompressedTexture2D::2835996712405164393::1708387102::1708387102::1::::<><>::
+Pineapple.png::CompressedTexture2D::906582055857251194::1708387102::1708387102::1::::<><>::
+Strawberry.png::CompressedTexture2D::7769055075873121245::1708387102::1708387102::1::::<><>::
+::res://sprites/Interface/::1709217733
+HeartEmptry.png::CompressedTexture2D::1735326693810311601::1708540018::1708540022::1::::<><>::
+HeartFull.png::CompressedTexture2D::8693090753323385582::1708539933::1708540022::1::::<><>::
+HP_Ui.png::CompressedTexture2D::4002362149616840449::1708387102::1708387102::1::::<><>::
+::res://sprites/Resources/::1710615731
+FFFFORWA.TTF::FontFile::6490944892952778793::1708509953::1710615731::1::::<><>::
+icon.png::CompressedTexture2D::6755245756618320402::1710614813::1710615731::1::::<><>::
+::res://sprites/Tilemap/::1709217733
+Blue.png::CompressedTexture2D::4873650548429921097::1708387102::1708387102::1::::<><>::
+Terrain (16x16).png::CompressedTexture2D::6048644243889816581::1708387102::1708387102::1::::<><>::
